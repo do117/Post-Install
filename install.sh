@@ -55,9 +55,9 @@ docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v porta
 #
 echo ""
 echo -e "${bleuclair}##########################################${neutre}"
-echo -e "${bleuclair}## Installation de Screenfetch :${neutre} ${vertfonce}OK${$
-echo -e "${bleuclair}## Installation de Docker :${neutre} ${vertfonce}OK${neutr$
-echo -e "${bleuclair}## Installation de Docker-Compose :${neutre} ${vertfonce}O$
-echo -e "${bleuclair}## Installation de Portainer :${neutre} ${vertfonce}OK${ne$
+echo -e "${bleuclair}## Installation de Screenfetch :${neutre} ${vertfonce}OK${neutre}"
+echo -e "${bleuclair}## Installation de Docker :${neutre} ${vertfonce}OK${neutre}"
+echo -e "${bleuclair}## Installation de Docker-Compose :${neutre} ${vertfonce}OK${neutre}"
+echo -e "${bleuclair}## Installation de Portainer :${neutre} ${vertfonce}OK${neutre}"
 echo -e "${bleuclair}##########################################${neutre}"
 echo ""
