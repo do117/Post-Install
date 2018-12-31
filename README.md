@@ -19,5 +19,9 @@ Création d'un utilisateur <USER>
 adduser <USER>
 usermod -a -G docker <USER>
 ```
+Pour connaitre son UserID et GroupID
+```bash
+id <USER>
+```
 # Accès
 Pour Portainer : nom de domaine pointant sur http://IP:9000
